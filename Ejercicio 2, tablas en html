@@ -1,0 +1,35 @@
+<!DOCTYPE html>
+<html>
+    <head>
+        <title>Ejercicio 02/2 - Tablas en HTML</title>
+    </head>
+    <body>
+        <table>
+            <h3>Tres libros preferidos</h3>
+            <tr>
+                <th>Título</th>
+                <th>Autor</th>
+                <th>Año de publicación</th>
+                <th>Enlace a Amazon</th>
+            </tr>
+            <tr>
+                <td>Cuento de hadas</td>
+                <td>Stephen King</td>
+                <td>2022</td>
+                <td> <a href=" https://www.amazon.es/Cuento-hadas-%C3%89xitos-Stephen-King/dp/8401027713?ref_=ast_sto_dp">Enlace a Amazon</a></td>
+            </tr>
+            <tr>
+                <td>Los Hijos de Hurín</td>
+                <td>J.R.R Tolkien</td>
+                <td>2017</td>
+                <td> <a href="https://www.amazon.es/dp/B0064SUVH4/ref=syn_sd_onsite_desktop_209?ie=UTF8&psc=1&pd_rd_plhdr=t">Enlace a Amazon</a></td>
+            </tr>
+            <tr>
+                <td>Revolución</td>
+                <td> Arturo Pérez-Reverte </td>
+                <td>2022</td>
+                <td> <a href="https://www.amazon.es/dp/8420461466/ref=redir_mobile_desktop?_encoding=UTF8&aaxitk=3ec5dcc0797ce2ee2c34ef0a6aa003d1&content-id=amzn1.sym.62a95ce4-030e-40b3-9fd7-7d51101ef2da%3Aamzn1.sym.62a95ce4-030e-40b3-9fd7-7d51101ef2da&hsa_cr_id=4418649860702&pd_rd_plhdr=t&pd_rd_r=ca9e5e45-dbd6-4569-908c-76e8915e1743&pd_rd_w=Eoh3q&pd_rd_wg=QFeRr&qid=1667382041&ref_=sbx_be_s_sparkle_lsi4d_asin_0_img&sr=1-1-e0fa1fdd-d857-4087-adda-5bd576b25987">Enlace a Amazon</a></td>
+            </tr>
+        </table>
+    </body>
+</html>
