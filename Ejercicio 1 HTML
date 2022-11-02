@@ -1,0 +1,15 @@
+<!DOCTYPE html>
+<html>
+    <head>
+        <title>Ejercicio de Introducción  a HTML en OpenBootcamp</title>
+    </head>
+    <body>
+        <!--Este es mi primer comentario de dos líneas
+        Aprendiendo a documentar mi código con OpenBootcamp-->
+        <ul>
+            <li><a href="https://www.youtube.com/watch?v=lu60aeS8HME&ab_channel=Bol">Screaming blue thing</a></li>
+            <li><a href="https://www.youtube.com/watch?v=APfEZblZVqw&list=LL&index=77&ab_channel=UrghBla">Toad roasts Franklin but it's actually Toad's voice</a></li>
+            <li><a href="https://www.youtube.com/watch?v=1or3YILu28M&ab_channel=TerminalMontage">Algo sobre Zelda Breath of the Wild VELOCIDAD ANIMADA ❤️❤️🖤 CUALQUIER% 04:11 (sin amiibo) WR</a></li>
+        </ul>
+    </body>
+</html>
