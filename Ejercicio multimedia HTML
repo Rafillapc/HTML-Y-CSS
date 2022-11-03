@@ -1,0 +1,20 @@
+<!DOCTYPE html>
+<html>
+    <head>
+        <title>Multimedia en html</title>
+    </head>
+    <body>
+        <h1> Aprendiendo a utilizar imágenes</h1>
+        <img src="https://www.google.com/url?sa=i&url=https%3A%2F%2Fareajugones.sport.es%2Fvideojuegos%2Fthe-witcher-3-wild-hunt%2F&psig=AOvVaw0FsrLosrUCjYRGCJ95xx1m&ust=1667557674517000&source=images&cd=vfe&ved=0CA0QjRxqFwoTCJCKwMjmkfsCFQAAAAAdAAAAABAE" alt="The Witcher 3 Wild Hunt" width="300" height="300" />
+
+        <h3>Vídeo</h3>
+        <video width="300" height="300" controls autoplay muted loop> 
+            <source src="Intro.mp4" type="video/mp4" />
+        </video>
+
+        <h3>Audio</h3>
+        <audio controls>
+            <source src="" type=""/>
+        </audio>
+    </body>
+</html>
