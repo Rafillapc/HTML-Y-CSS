@@ -1,0 +1,34 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta http-equiv="X-UA-Compatible" content="IE=edge">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Ejercicio</title>
+    <link rel="stylesheet" href="css/ejercicio.css">
+</head>
+<body>
+    <div class="galeria">
+        <img class="imagengaleria" src="descarga.jpg" alt="shrek" />
+        <img class="imagengaleria" src="descarga.jpg" alt="shrek" />
+        <img class="imagengaleria" src="descarga.jpg" alt="shrek" />
+        <img class="imagengaleria" src="descarga.jpg" alt="shrek" />
+        <img class="imagengaleria" src="descarga.jpg" alt="shrek" />
+        <img class="imagengaleria" src="descarga.jpg" alt="shrek" />
+    </div>
+</body>
+</html>
+
+----------------------------------------------------------------------------------------------------
+
+<!--Aquí va el CSS-->
+
+.galeria {
+    display: flexbox;
+
+}
+
+.imagengaleria {
+    width: 300px;
+    flex-wrap: wrap;
+}
